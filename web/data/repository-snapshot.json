@@ -1,0 +1,1210 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "code": "4GR00008480",
+      "name": "修远书院",
+      "total": 20,
+      "free": 5,
+      "busy": 15,
+      "fault": 0,
+      "ports": [
+        {
+          "num": 1,
+          "state": 1
+        },
+        {
+          "num": 2,
+          "state": 2
+        },
+        {
+          "num": 3,
+          "state": 2
+        },
+        {
+          "num": 4,
+          "state": 2
+        },
+        {
+          "num": 5,
+          "state": 2
+        },
+        {
+          "num": 6,
+          "state": 2
+        },
+        {
+          "num": 7,
+          "state": 1
+        },
+        {
+          "num": 8,
+          "state": 2
+        },
+        {
+          "num": 9,
+          "state": 1
+        },
+        {
+          "num": 10,
+          "state": 2
+        },
+        {
+          "num": 11,
+          "state": 2
+        },
+        {
+          "num": 12,
+          "state": 2
+        },
+        {
+          "num": 13,
+          "state": 2
+        },
+        {
+          "num": 14,
+          "state": 1
+        },
+        {
+          "num": 15,
+          "state": 2
+        },
+        {
+          "num": 16,
+          "state": 2
+        },
+        {
+          "num": 17,
+          "state": 2
+        },
+        {
+          "num": 18,
+          "state": 1
+        },
+        {
+          "num": 19,
+          "state": 2
+        },
+        {
+          "num": 20,
+          "state": 2
+        }
+      ],
+      "ok": true,
+      "reference_name": "弘毅书院 HY-1"
+    },
+    {
+      "code": "4GR00008484",
+      "name": "文科教学楼",
+      "total": 20,
+      "free": 4,
+      "busy": 11,
+      "fault": 5,
+      "ports": [
+        {
+          "num": 1,
+          "state": 2
+        },
+        {
+          "num": 2,
+          "state": 3
+        },
+        {
+          "num": 3,
+          "state": 2
+        },
+        {
+          "num": 4,
+          "state": 2
+        },
+        {
+          "num": 5,
+          "state": 2
+        },
+        {
+          "num": 6,
+          "state": 2
+        },
+        {
+          "num": 7,
+          "state": 2
+        },
+        {
+          "num": 8,
+          "state": 2
+        },
+        {
+          "num": 9,
+          "state": 2
+        },
+        {
+          "num": 10,
+          "state": 1
+        },
+        {
+          "num": 11,
+          "state": 2
+        },
+        {
+          "num": 12,
+          "state": 1
+        },
+        {
+          "num": 13,
+          "state": 2
+        },
+        {
+          "num": 14,
+          "state": 3
+        },
+        {
+          "num": 15,
+          "state": 3
+        },
+        {
+          "num": 16,
+          "state": 1
+        },
+        {
+          "num": 17,
+          "state": 3
+        },
+        {
+          "num": 18,
+          "state": 3
+        },
+        {
+          "num": 19,
+          "state": 2
+        },
+        {
+          "num": 20,
+          "state": 1
+        }
+      ],
+      "ok": true,
+      "reference_name": "弘毅书院 HY-2"
+    },
+    {
+      "code": "4GR00008485",
+      "name": "思源书院左二",
+      "total": 20,
+      "free": 15,
+      "busy": 5,
+      "fault": 0,
+      "ports": [
+        {
+          "num": 1,
+          "state": 1
+        },
+        {
+          "num": 2,
+          "state": 1
+        },
+        {
+          "num": 3,
+          "state": 2
+        },
+        {
+          "num": 4,
+          "state": 1
+        },
+        {
+          "num": 5,
+          "state": 1
+        },
+        {
+          "num": 6,
+          "state": 2
+        },
+        {
+          "num": 7,
+          "state": 1
+        },
+        {
+          "num": 8,
+          "state": 1
+        },
+        {
+          "num": 9,
+          "state": 1
+        },
+        {
+          "num": 10,
+          "state": 1
+        },
+        {
+          "num": 11,
+          "state": 1
+        },
+        {
+          "num": 12,
+          "state": 1
+        },
+        {
+          "num": 13,
+          "state": 1
+        },
+        {
+          "num": 14,
+          "state": 1
+        },
+        {
+          "num": 15,
+          "state": 1
+        },
+        {
+          "num": 16,
+          "state": 1
+        },
+        {
+          "num": 17,
+          "state": 2
+        },
+        {
+          "num": 18,
+          "state": 2
+        },
+        {
+          "num": 19,
+          "state": 1
+        },
+        {
+          "num": 20,
+          "state": 2
+        }
+      ],
+      "ok": true,
+      "reference_name": "思源书院 SY-1"
+    },
+    {
+      "code": "4GR00008488",
+      "name": "滑板场二",
+      "total": 20,
+      "free": 5,
+      "busy": 14,
+      "fault": 1,
+      "ports": [
+        {
+          "num": 1,
+          "state": 2
+        },
+        {
+          "num": 2,
+          "state": 2
+        },
+        {
+          "num": 3,
+          "state": 2
+        },
+        {
+          "num": 4,
+          "state": 1
+        },
+        {
+          "num": 5,
+          "state": 2
+        },
+        {
+          "num": 6,
+          "state": 2
+        },
+        {
+          "num": 7,
+          "state": 2
+        },
+        {
+          "num": 8,
+          "state": 2
+        },
+        {
+          "num": 9,
+          "state": 1
+        },
+        {
+          "num": 10,
+          "state": 1
+        },
+        {
+          "num": 11,
+          "state": 3
+        },
+        {
+          "num": 12,
+          "state": 2
+        },
+        {
+          "num": 13,
+          "state": 1
+        },
+        {
+          "num": 14,
+          "state": 2
+        },
+        {
+          "num": 15,
+          "state": 2
+        },
+        {
+          "num": 16,
+          "state": 1
+        },
+        {
+          "num": 17,
+          "state": 2
+        },
+        {
+          "num": 18,
+          "state": 2
+        },
+        {
+          "num": 19,
+          "state": 2
+        },
+        {
+          "num": 20,
+          "state": 2
+        }
+      ],
+      "ok": true,
+      "reference_name": "运动场中路 YDC-1"
+    },
+    {
+      "code": "4GR00008489",
+      "name": "思源书院左三",
+      "total": 20,
+      "free": 2,
+      "busy": 15,
+      "fault": 3,
+      "ports": [
+        {
+          "num": 1,
+          "state": 1
+        },
+        {
+          "num": 2,
+          "state": 2
+        },
+        {
+          "num": 3,
+          "state": 2
+        },
+        {
+          "num": 4,
+          "state": 3
+        },
+        {
+          "num": 5,
+          "state": 2
+        },
+        {
+          "num": 6,
+          "state": 2
+        },
+        {
+          "num": 7,
+          "state": 2
+        },
+        {
+          "num": 8,
+          "state": 2
+        },
+        {
+          "num": 9,
+          "state": 2
+        },
+        {
+          "num": 10,
+          "state": 1
+        },
+        {
+          "num": 11,
+          "state": 2
+        },
+        {
+          "num": 12,
+          "state": 2
+        },
+        {
+          "num": 13,
+          "state": 2
+        },
+        {
+          "num": 14,
+          "state": 3
+        },
+        {
+          "num": 15,
+          "state": 2
+        },
+        {
+          "num": 16,
+          "state": 2
+        },
+        {
+          "num": 17,
+          "state": 3
+        },
+        {
+          "num": 18,
+          "state": 2
+        },
+        {
+          "num": 19,
+          "state": 2
+        },
+        {
+          "num": 20,
+          "state": 2
+        }
+      ],
+      "ok": true,
+      "reference_name": "明德书院 MD-1"
+    },
+    {
+      "code": "4GR00008490",
+      "name": "思源左四",
+      "total": 20,
+      "free": 3,
+      "busy": 14,
+      "fault": 3,
+      "ports": [
+        {
+          "num": 1,
+          "state": 3
+        },
+        {
+          "num": 2,
+          "state": 2
+        },
+        {
+          "num": 3,
+          "state": 1
+        },
+        {
+          "num": 4,
+          "state": 3
+        },
+        {
+          "num": 5,
+          "state": 2
+        },
+        {
+          "num": 6,
+          "state": 2
+        },
+        {
+          "num": 7,
+          "state": 2
+        },
+        {
+          "num": 8,
+          "state": 2
+        },
+        {
+          "num": 9,
+          "state": 2
+        },
+        {
+          "num": 10,
+          "state": 3
+        },
+        {
+          "num": 11,
+          "state": 2
+        },
+        {
+          "num": 12,
+          "state": 2
+        },
+        {
+          "num": 13,
+          "state": 2
+        },
+        {
+          "num": 14,
+          "state": 2
+        },
+        {
+          "num": 15,
+          "state": 2
+        },
+        {
+          "num": 16,
+          "state": 2
+        },
+        {
+          "num": 17,
+          "state": 1
+        },
+        {
+          "num": 18,
+          "state": 2
+        },
+        {
+          "num": 19,
+          "state": 2
+        },
+        {
+          "num": 20,
+          "state": 1
+        }
+      ],
+      "ok": true,
+      "reference_name": "明德书院 MD-2"
+    },
+    {
+      "code": "4GR00008491",
+      "name": "图书馆三",
+      "total": 20,
+      "free": 10,
+      "busy": 7,
+      "fault": 3,
+      "ports": [
+        {
+          "num": 1,
+          "state": 2
+        },
+        {
+          "num": 2,
+          "state": 1
+        },
+        {
+          "num": 3,
+          "state": 1
+        },
+        {
+          "num": 4,
+          "state": 1
+        },
+        {
+          "num": 5,
+          "state": 1
+        },
+        {
+          "num": 6,
+          "state": 2
+        },
+        {
+          "num": 7,
+          "state": 2
+        },
+        {
+          "num": 8,
+          "state": 1
+        },
+        {
+          "num": 9,
+          "state": 3
+        },
+        {
+          "num": 10,
+          "state": 3
+        },
+        {
+          "num": 11,
+          "state": 3
+        },
+        {
+          "num": 12,
+          "state": 1
+        },
+        {
+          "num": 13,
+          "state": 1
+        },
+        {
+          "num": 14,
+          "state": 2
+        },
+        {
+          "num": 15,
+          "state": 1
+        },
+        {
+          "num": 16,
+          "state": 2
+        },
+        {
+          "num": 17,
+          "state": 2
+        },
+        {
+          "num": 18,
+          "state": 1
+        },
+        {
+          "num": 19,
+          "state": 2
+        },
+        {
+          "num": 20,
+          "state": 1
+        }
+      ],
+      "ok": true,
+      "reference_name": "图书馆 TS-1"
+    },
+    {
+      "code": "4GR00008492",
+      "name": "思源书院左一",
+      "total": 20,
+      "free": 9,
+      "busy": 10,
+      "fault": 1,
+      "ports": [
+        {
+          "num": 1,
+          "state": 1
+        },
+        {
+          "num": 2,
+          "state": 1
+        },
+        {
+          "num": 3,
+          "state": 2
+        },
+        {
+          "num": 4,
+          "state": 1
+        },
+        {
+          "num": 5,
+          "state": 1
+        },
+        {
+          "num": 6,
+          "state": 1
+        },
+        {
+          "num": 7,
+          "state": 2
+        },
+        {
+          "num": 8,
+          "state": 3
+        },
+        {
+          "num": 9,
+          "state": 2
+        },
+        {
+          "num": 10,
+          "state": 2
+        },
+        {
+          "num": 11,
+          "state": 1
+        },
+        {
+          "num": 12,
+          "state": 1
+        },
+        {
+          "num": 13,
+          "state": 2
+        },
+        {
+          "num": 14,
+          "state": 2
+        },
+        {
+          "num": 15,
+          "state": 1
+        },
+        {
+          "num": 16,
+          "state": 2
+        },
+        {
+          "num": 17,
+          "state": 1
+        },
+        {
+          "num": 18,
+          "state": 2
+        },
+        {
+          "num": 19,
+          "state": 2
+        },
+        {
+          "num": 20,
+          "state": 2
+        }
+      ],
+      "ok": true,
+      "reference_name": "文南楼 WN-1"
+    },
+    {
+      "code": "4GR00008493",
+      "name": "图书馆二",
+      "total": 20,
+      "free": 14,
+      "busy": 6,
+      "fault": 0,
+      "ports": [
+        {
+          "num": 1,
+          "state": 1
+        },
+        {
+          "num": 2,
+          "state": 2
+        },
+        {
+          "num": 3,
+          "state": 2
+        },
+        {
+          "num": 4,
+          "state": 1
+        },
+        {
+          "num": 5,
+          "state": 2
+        },
+        {
+          "num": 6,
+          "state": 1
+        },
+        {
+          "num": 7,
+          "state": 2
+        },
+        {
+          "num": 8,
+          "state": 1
+        },
+        {
+          "num": 9,
+          "state": 1
+        },
+        {
+          "num": 10,
+          "state": 1
+        },
+        {
+          "num": 11,
+          "state": 1
+        },
+        {
+          "num": 12,
+          "state": 1
+        },
+        {
+          "num": 13,
+          "state": 1
+        },
+        {
+          "num": 14,
+          "state": 1
+        },
+        {
+          "num": 15,
+          "state": 2
+        },
+        {
+          "num": 16,
+          "state": 1
+        },
+        {
+          "num": 17,
+          "state": 1
+        },
+        {
+          "num": 18,
+          "state": 1
+        },
+        {
+          "num": 19,
+          "state": 1
+        },
+        {
+          "num": 20,
+          "state": 2
+        }
+      ],
+      "ok": true,
+      "reference_name": "滑冰场 HBC-1"
+    },
+    {
+      "code": "4GR00008494",
+      "name": "敬一书院",
+      "total": 20,
+      "free": 11,
+      "busy": 9,
+      "fault": 0,
+      "ports": [
+        {
+          "num": 1,
+          "state": 1
+        },
+        {
+          "num": 2,
+          "state": 2
+        },
+        {
+          "num": 3,
+          "state": 1
+        },
+        {
+          "num": 4,
+          "state": 2
+        },
+        {
+          "num": 5,
+          "state": 1
+        },
+        {
+          "num": 6,
+          "state": 1
+        },
+        {
+          "num": 7,
+          "state": 1
+        },
+        {
+          "num": 8,
+          "state": 2
+        },
+        {
+          "num": 9,
+          "state": 1
+        },
+        {
+          "num": 10,
+          "state": 2
+        },
+        {
+          "num": 11,
+          "state": 2
+        },
+        {
+          "num": 12,
+          "state": 2
+        },
+        {
+          "num": 13,
+          "state": 1
+        },
+        {
+          "num": 14,
+          "state": 2
+        },
+        {
+          "num": 15,
+          "state": 1
+        },
+        {
+          "num": 16,
+          "state": 1
+        },
+        {
+          "num": 17,
+          "state": 2
+        },
+        {
+          "num": 18,
+          "state": 1
+        },
+        {
+          "num": 19,
+          "state": 1
+        },
+        {
+          "num": 20,
+          "state": 2
+        }
+      ],
+      "ok": true,
+      "reference_name": "滑冰场 HBC-2"
+    },
+    {
+      "code": "4GR00008495",
+      "name": "图书馆一",
+      "total": 20,
+      "free": 10,
+      "busy": 10,
+      "fault": 0,
+      "ports": [
+        {
+          "num": 1,
+          "state": 2
+        },
+        {
+          "num": 2,
+          "state": 2
+        },
+        {
+          "num": 3,
+          "state": 1
+        },
+        {
+          "num": 4,
+          "state": 1
+        },
+        {
+          "num": 5,
+          "state": 2
+        },
+        {
+          "num": 6,
+          "state": 2
+        },
+        {
+          "num": 7,
+          "state": 1
+        },
+        {
+          "num": 8,
+          "state": 2
+        },
+        {
+          "num": 9,
+          "state": 1
+        },
+        {
+          "num": 10,
+          "state": 2
+        },
+        {
+          "num": 11,
+          "state": 2
+        },
+        {
+          "num": 12,
+          "state": 1
+        },
+        {
+          "num": 13,
+          "state": 1
+        },
+        {
+          "num": 14,
+          "state": 1
+        },
+        {
+          "num": 15,
+          "state": 1
+        },
+        {
+          "num": 16,
+          "state": 2
+        },
+        {
+          "num": 17,
+          "state": 1
+        },
+        {
+          "num": 18,
+          "state": 2
+        },
+        {
+          "num": 19,
+          "state": 2
+        },
+        {
+          "num": 20,
+          "state": 1
+        }
+      ],
+      "ok": true,
+      "reference_name": "敬一书院 JY-1"
+    },
+    {
+      "code": "4GR00008497",
+      "name": "滑板场一",
+      "total": 20,
+      "free": 4,
+      "busy": 16,
+      "fault": 0,
+      "ports": [
+        {
+          "num": 1,
+          "state": 2
+        },
+        {
+          "num": 2,
+          "state": 2
+        },
+        {
+          "num": 3,
+          "state": 2
+        },
+        {
+          "num": 4,
+          "state": 2
+        },
+        {
+          "num": 5,
+          "state": 2
+        },
+        {
+          "num": 6,
+          "state": 2
+        },
+        {
+          "num": 7,
+          "state": 2
+        },
+        {
+          "num": 8,
+          "state": 2
+        },
+        {
+          "num": 9,
+          "state": 2
+        },
+        {
+          "num": 10,
+          "state": 2
+        },
+        {
+          "num": 11,
+          "state": 2
+        },
+        {
+          "num": 12,
+          "state": 2
+        },
+        {
+          "num": 13,
+          "state": 2
+        },
+        {
+          "num": 14,
+          "state": 2
+        },
+        {
+          "num": 15,
+          "state": 1
+        },
+        {
+          "num": 16,
+          "state": 1
+        },
+        {
+          "num": 17,
+          "state": 1
+        },
+        {
+          "num": 18,
+          "state": 2
+        },
+        {
+          "num": 19,
+          "state": 1
+        },
+        {
+          "num": 20,
+          "state": 2
+        }
+      ],
+      "ok": true,
+      "reference_name": "至诚书院 ZC-2"
+    },
+    {
+      "code": "4GR00008498",
+      "name": "志诚书院",
+      "total": 20,
+      "free": 2,
+      "busy": 17,
+      "fault": 1,
+      "ports": [
+        {
+          "num": 1,
+          "state": 2
+        },
+        {
+          "num": 2,
+          "state": 2
+        },
+        {
+          "num": 3,
+          "state": 2
+        },
+        {
+          "num": 4,
+          "state": 2
+        },
+        {
+          "num": 5,
+          "state": 1
+        },
+        {
+          "num": 6,
+          "state": 3
+        },
+        {
+          "num": 7,
+          "state": 2
+        },
+        {
+          "num": 8,
+          "state": 2
+        },
+        {
+          "num": 9,
+          "state": 2
+        },
+        {
+          "num": 10,
+          "state": 2
+        },
+        {
+          "num": 11,
+          "state": 2
+        },
+        {
+          "num": 12,
+          "state": 2
+        },
+        {
+          "num": 13,
+          "state": 2
+        },
+        {
+          "num": 14,
+          "state": 2
+        },
+        {
+          "num": 15,
+          "state": 1
+        },
+        {
+          "num": 16,
+          "state": 2
+        },
+        {
+          "num": 17,
+          "state": 2
+        },
+        {
+          "num": 18,
+          "state": 2
+        },
+        {
+          "num": 19,
+          "state": 2
+        },
+        {
+          "num": 20,
+          "state": 2
+        }
+      ],
+      "ok": true,
+      "reference_name": "至诚书院 ZC-1"
+    }
+  ],
+  "stats": {
+    "total": 260,
+    "free": 94,
+    "busy": 149
+  },
+  "count": 13,
+  "projectName": "汕大电动单车充电桩",
+  "projectId": "3798",
+  "timestamp": 1788712627742.2844
+}

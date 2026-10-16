@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source": {
+    "filename": "学校充电桩设备地址.docx",
+    "method": "照片中印刷设备编号与相邻文字说明逐一对应；修远及滑板场位置依据用户圈图",
+    "sha256": "f16d7907f0192fcd4e26762308e3fa3a9b7c965060f332a1f17fa66ea35381a2"
+  },
+  "locations": [
+    {
+      "id": "siyuan",
+      "name": "思源书院",
+      "map_x": 337,
+      "map_y": 1086,
+      "coordinate_source": "user_described_illustration",
+      "description": "思源书院旁充电点，按文档左一至左四排列"
+    },
+    {
+      "id": "library",
+      "name": "图书馆",
+      "map_x": 852,
+      "map_y": 1160,
+      "coordinate_source": "campus_landmark_illustration"
+    },
+    {
+      "id": "jingyi",
+      "name": "敬一书院",
+      "map_x": 584,
+      "map_y": 628,
+      "coordinate_source": "campus_landmark_illustration"
+    },
+    {
+      "id": "zhicheng",
+      "name": "志诚书院",
+      "map_x": 1102,
+      "map_y": 981,
+      "coordinate_source": "campus_landmark_illustration"
+    },
+    {
+      "id": "wenke",
+      "name": "文科教学楼",
+      "map_x": 765,
+      "map_y": 805,
+      "coordinate_source": "campus_landmark_illustration",
+      "description": "文科教学区方位示意"
+    },
+    {
+      "id": "skating",
+      "name": "滑板场",
+      "map_x": 480,
+      "map_y": 755,
+      "coordinate_source": "user_described_illustration",
+      "description": "按用户圈图，位于田径场下方路口，靠近学生宿舍区",
+      "coordinate_reference": "codex-clipboard-cb6847c2-7cc7-4c2b-88f0-8f4863e56aab.png"
+    },
+    {
+      "id": "xiuyuan",
+      "name": "修远书院",
+      "map_x": 571,
+      "map_y": 540,
+      "coordinate_source": "user_described_illustration",
+      "description": "按用户圈图，位于敬一书院左上方宿舍楼之间"
+    },
+    {
+      "id": "teachers",
+      "name": "教师宿舍",
+      "map_x": 315,
+      "map_y": 258,
+      "coordinate_source": "user_described_illustration",
+      "description": "高层教师公寓与淑德书院之间"
+    }
+  ],
+  "devices": [
+    {
+      "id": "4GR00008492",
+      "display_name": "思源书院左一",
+      "location_id": "siyuan",
+      "photo": "image1.jpeg"
+    },
+    {
+      "id": "4GR00008485",
+      "display_name": "思源书院左二",
+      "location_id": "siyuan",
+      "photo": "image2.jpeg"
+    },
+    {
+      "id": "4GR00008489",
+      "display_name": "思源书院左三",
+      "location_id": "siyuan",
+      "photo": "image3.jpeg"
+    },
+    {
+      "id": "4GR00008490",
+      "display_name": "思源左四",
+      "location_id": "siyuan",
+      "photo": "image4.jpeg"
+    },
+    {
+      "id": "4GR00008495",
+      "display_name": "图书馆一",
+      "location_id": "library",
+      "photo": "image5.jpeg"
+    },
+    {
+      "id": "4GR00008493",
+      "display_name": "图书馆二",
+      "location_id": "library",
+      "photo": "image6.jpeg"
+    },
+    {
+      "id": "4GR00008491",
+      "display_name": "图书馆三",
+      "location_id": "library",
+      "photo": "image7.jpeg"
+    },
+    {
+      "id": "4GR00008494",
+      "display_name": "敬一书院",
+      "location_id": "jingyi",
+      "photo": "image8.jpeg"
+    },
+    {
+      "id": "4GR00008498",
+      "display_name": "志诚书院",
+      "location_id": "zhicheng",
+      "photo": "image9.jpeg"
+    },
+    {
+      "id": "4GR00008484",
+      "display_name": "文科教学楼",
+      "location_id": "wenke",
+      "photo": "image10.jpeg"
+    },
+    {
+      "id": "4GR00008497",
+      "display_name": "滑板场一",
+      "location_id": "skating",
+      "photo": "image11.jpeg"
+    },
+    {
+      "id": "4GR00008488",
+      "display_name": "滑板场二",
+      "location_id": "skating",
+      "photo": "image12.jpeg"
+    },
+    {
+      "id": "4GR00008480",
+      "display_name": "修远书院",
+      "location_id": "xiuyuan",
+      "photo": "image13.jpeg"
+    },
+    {
+      "id": "4GR00006723",
+      "display_name": "教师宿舍",
+      "location_id": "teachers",
+      "photo": "image14.jpeg"
+    }
+  ]
+}

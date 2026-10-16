@@ -1,0 +1,10 @@
+{
+  "java": "C:/path/to/jdk-17/bin/java.exe",
+  "javac": "C:/path/to/jdk-17/bin/javac.exe",
+  "keytool": "C:/path/to/jdk-17/bin/keytool.exe",
+  "aapt2": "C:/path/to/Android/sdk/build-tools/35.0.0/aapt2.exe",
+  "zipalign": "C:/path/to/Android/sdk/build-tools/35.0.0/zipalign.exe",
+  "d8": "C:/path/to/Android/sdk/build-tools/35.0.0/lib/d8.jar",
+  "apksigner": "C:/path/to/Android/sdk/build-tools/35.0.0/lib/apksigner.jar",
+  "android_jar": "C:/path/to/Android/sdk/platforms/android-35/android.jar"
+}
